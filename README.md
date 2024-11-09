@@ -48,33 +48,41 @@ This project demonstrates image compression using Singular Value Decomposition (
 
 ### Compressed Images
 - r = 500
+  
 ![image](https://github.com/user-attachments/assets/a16307c6-3fe2-4c50-9fdd-08a34861f9c6)
 
 - r = 400
+  
 ![image](https://github.com/user-attachments/assets/183b4ea7-23e0-41b6-9d52-74410a885ef7)
 
 
 - r = 300
+  
 ![image](https://github.com/user-attachments/assets/1d007509-addc-4202-92dc-f2ffe9827998)
 
 
 - r = 200
+  
 ![image](https://github.com/user-attachments/assets/d38fc008-9d74-4b4c-a13e-b4ae256c175b)
 
 
 - r = 150
+  
 ![image](https://github.com/user-attachments/assets/4bc490a5-0d49-4961-a014-ea7f4d1c77ee)
 
 
 - r = 100
+  
 ![image](https://github.com/user-attachments/assets/ed00eccc-4800-47ca-9004-bd2c68ef6484)
 
 
 - r = 75
+  
 ![image](https://github.com/user-attachments/assets/b6dfcfb1-0da8-4987-84fe-e42afae3c368)
 
 
 - r = 50
+  
 ![image](https://github.com/user-attachments/assets/4854951c-15c5-405f-99dc-5d2a26651c13)
 
 
