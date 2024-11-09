@@ -10,7 +10,6 @@ This project demonstrates image compression using Singular Value Decomposition (
 - [Working](#working)
 - [Sample Output](#sample-output)
 - [Future Improvements](#future-improvements)
-- [Contact](#contact)
 
 ## Features
 - **Image Compression**: Compresses a grayscale image to various levels based on the number of singular values retained.
@@ -27,7 +26,7 @@ This project demonstrates image compression using Singular Value Decomposition (
 2. Ensure you have Python and the required libraries installed:
    ```bash
    pip install matplotlib numpy
-3. Place your target image in the same directory as the script, renaming it as castle.jpg (or update the code to specify a different path).
+3. Place your target image in the same directory as the script, renaming it castle.jpg (or update the code to specify a different path).
 
 ## Working
 1. Run the Python script:
@@ -40,10 +39,46 @@ This project demonstrates image compression using Singular Value Decomposition (
    - Plot two graphs showing:
        1. Singular values on a logarithmic scale.
        2. Cumulative sum of singular values as a percentage.
+
 3. Output: You will see a series of images at different compression levels, followed by two graphs indicating how singular values contribute to image data retention.
 
 ## Sample Output
+### Input
+![castle](https://github.com/user-attachments/assets/8e4b0b88-8969-415e-8c5f-6d389aad0d54)
+
 ### Compressed Images
+- r = 500
+![image](https://github.com/user-attachments/assets/a16307c6-3fe2-4c50-9fdd-08a34861f9c6)
+
+- r = 400
+![image](https://github.com/user-attachments/assets/183b4ea7-23e0-41b6-9d52-74410a885ef7)
+
+
+- r = 300
+![image](https://github.com/user-attachments/assets/1d007509-addc-4202-92dc-f2ffe9827998)
+
+
+- r = 200
+![image](https://github.com/user-attachments/assets/d38fc008-9d74-4b4c-a13e-b4ae256c175b)
+
+
+- r = 150
+![image](https://github.com/user-attachments/assets/4bc490a5-0d49-4961-a014-ea7f4d1c77ee)
+
+
+- r = 100
+![image](https://github.com/user-attachments/assets/ed00eccc-4800-47ca-9004-bd2c68ef6484)
+
+
+- r = 75
+![image](https://github.com/user-attachments/assets/b6dfcfb1-0da8-4987-84fe-e42afae3c368)
+
+
+- r = 50
+![image](https://github.com/user-attachments/assets/4854951c-15c5-405f-99dc-5d2a26651c13)
+
+
+
 ### Graphs
 - Singular Values Graph: A plot on a logarithmic scale showing the distribution of singular values.
 - Cumulative Sum Graph: A graph displaying the cumulative percentage of singular values, useful for understanding how many singular values are needed for a given quality level.
