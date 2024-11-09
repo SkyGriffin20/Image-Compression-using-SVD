@@ -89,7 +89,14 @@ This project demonstrates image compression using Singular Value Decomposition (
 
 ### Graphs
 - Singular Values Graph: A plot on a logarithmic scale showing the distribution of singular values.
+
+![image](https://github.com/user-attachments/assets/9844a16f-9cab-4a29-8863-0b0a7e3cf681)
+
+  
 - Cumulative Sum Graph: A graph displaying the cumulative percentage of singular values, useful for understanding how many singular values are needed for a given quality level.
+
+![image](https://github.com/user-attachments/assets/b20af5fe-8e83-4516-89f3-2caefc562d60)
+
 
 ## Future Improvements
 - Extend the project to include colour image compression.
