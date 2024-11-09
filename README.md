@@ -105,4 +105,5 @@ This project demonstrates image compression using Singular Value Decomposition (
 - Add functionality for user-specified image paths and compression levels.
 
 ## Contact
-skygriffin20.contact@gmail.com
+- skygriffin20.contact@gmail.com
+- atharvadhuri06@gmail.com
