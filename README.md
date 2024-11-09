@@ -8,7 +8,7 @@ This project demonstrates image compression using Singular Value Decomposition (
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Working](#working)
-- [Output Examples](#output-examples)
+- [Sample Output](#sample-output)
 - [Future Improvements](#future-improvements)
 - [Contact](#contact)
 
