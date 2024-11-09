@@ -10,6 +10,7 @@ This project demonstrates image compression using Singular Value Decomposition (
 - [Working](#working)
 - [Sample Output](#sample-output)
 - [Future Improvements](#future-improvements)
+- [Contact](#contact)
 
 ## Features
 - **Image Compression**: Compresses a grayscale image to various levels based on the number of singular values retained.
@@ -97,7 +98,8 @@ This project demonstrates image compression using Singular Value Decomposition (
 
 ![image](https://github.com/user-attachments/assets/b20af5fe-8e83-4516-89f3-2caefc562d60)
 
-
+## Contact
+skygriffin20.contact@gmail.com
 ## Future Improvements
 - Extend the project to include colour image compression.
 - Implement additional metrics to evaluate the quality of compressed images (e.g., Mean Squared Error).
